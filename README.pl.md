@@ -14,7 +14,7 @@ IPS sam sprawdza nowe wersje: aplikacja czyta [`latest.json`](latest.json) z teg
 
 ## Co robi
 
-Klient AI podłączony do forum czyta rekordy wybranych baz Pages (artykuły, newsy, recenzje) i zapisuje nowe albo zmiany. Ma do tego 11 narzędzi MCP: lista i opis baz, wyszukiwanie i odczyt rekordów, wyszukiwanie powiązanych rekordów (marki, sklepy), wgrywanie zdjęć, tworzenie i edycja rekordów.
+Klient AI podłączony do forum czyta rekordy wybranych baz Pages (artykuły, newsy, recenzje) i zapisuje nowe albo zmiany. Ma do tego 10 narzędzi MCP: lista i opis baz, wyszukiwanie i odczyt rekordów, wyszukiwanie powiązanych rekordów (marki, sklepy), wgrywanie zdjęć, tworzenie i edycja rekordów.
 
 | Co ustawia administrator | Jak |
 | --- | --- |

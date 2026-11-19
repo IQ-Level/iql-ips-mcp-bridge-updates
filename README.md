@@ -14,7 +14,7 @@ IPS checks for new versions on its own: the application reads [`latest.json`](la
 
 ## What it does
 
-An AI client connected to the forum can read records of the chosen Pages databases (articles, news, reviews) and write new ones or changes. It works through 11 MCP tools: list and describe databases, search and read records, find linked records (brands, shops), upload images, and create or update records.
+An AI client connected to the forum can read records of the chosen Pages databases (articles, news, reviews) and write new ones or changes. It works through 10 MCP tools: list and describe databases, search and read records, find linked records (brands, shops), upload images, and create or update records.
 
 | What the admin controls | How |
 | --- | --- |
