@@ -1,8 +1,8 @@
 {
-    "version": "1.0.12",
-    "longversion": 10012,
-    "released": 1795126072,
+    "version": "1.1.0",
+    "longversion": 10100,
+    "released": 1795162079,
     "updateurl": "https://github.com/IQ-Level/iql-ips-mcp-bridge-updates",
-    "releasenotes": "Update check: the ACP now shows when a new version is out (release channel IQ-Level/iql-ips-mcp-bridge-updates). Includes everything from 1.0.11: SEO fields (meta description, keywords, custom URL) for the AI and a separate image description for each uploaded photo.",
-    "published": "2026-11-19T22:07:52+00:00"
+    "releasenotes": "Tagi i prefiks rekordu z zasadami forum, planowana publikacja (publish_at) po zatwierdzeniu przez redaktora, wyszukiwanie artykułów do linkowania wewnętrznego, przegląd starych treści pod kątem SEO, alt i linków, szablony redakcyjne w ACP widoczne w Claude jako prompty.",
+    "published": "2026-11-20T08:07:59+00:00"
 }
