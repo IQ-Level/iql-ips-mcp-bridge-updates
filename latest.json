@@ -1,8 +1,8 @@
 {
-    "version": "1.1.1",
-    "longversion": 10101,
-    "released": 1795185984,
+    "version": "1.1.2",
+    "longversion": 10102,
+    "released": 1795186298,
     "updateurl": "https://github.com/IQ-Level/iql-ips-mcp-bridge-updates",
-    "releasenotes": "Wyłączone zapisywanie każdego zapytania MCP w logach systemowych. Tryb diagnostyczny to teraz przełącznik w ustawieniach (domyślnie wyłączony), a aktualizacja czyści dotychczasowe wpisy aimcp_debug.",
-    "published": "2026-11-20T14:46:24+00:00"
+    "releasenotes": "Usunięte logowanie zapytań MCP w logach systemowych (aimcp_debug), aktualizacja czyści dotychczasowe wpisy.",
+    "published": "2026-11-20T14:51:38+00:00"
 }
