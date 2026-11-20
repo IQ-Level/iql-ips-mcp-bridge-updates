@@ -4,6 +4,7 @@ MCP Bridge – Custom Databases, for Invision Community 4.7 with Pages. Newest f
 
 | Version | Date | Changes |
 | --- | --- | --- |
+| 1.1.2 | 2026-11-20 | Usunięte logowanie zapytań MCP w logach systemowych (aimcp_debug), aktualizacja czyści dotychczasowe wpisy. |
 | 1.1.1 | 2026-11-20 | Wyłączone zapisywanie każdego zapytania MCP w logach systemowych. Tryb diagnostyczny to teraz przełącznik w ustawieniach (domyślnie wyłączony), a aktualizacja czyści dotychczasowe wpisy aimcp_debug. |
 | 1.1.0 | 2026-11-20 | Tagi i prefiks rekordu z zasadami forum, planowana publikacja (publish_at) po zatwierdzeniu przez redaktora, wyszukiwanie artykułów do linkowania wewnętrznego, przegląd starych treści pod kątem SEO, alt i linków, szablony redakcyjne w ACP widoczne w Claude jako prompty. |
 | 1.0.12 | 2026-11-19 | Update check: the ACP now shows when a new version is out (release channel IQ-Level/iql-ips-mcp-bridge-updates). Includes everything from 1.0.11: SEO fields (meta description, keywords, custom URL) for the AI and a separate image description for each uploaded photo. |
