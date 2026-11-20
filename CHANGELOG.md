@@ -4,6 +4,7 @@ MCP Bridge – Custom Databases, for Invision Community 4.7 with Pages. Newest f
 
 | Version | Date | Changes |
 | --- | --- | --- |
+| 1.1.0 | 2026-11-20 | Tagi i prefiks rekordu z zasadami forum, planowana publikacja (publish_at) po zatwierdzeniu przez redaktora, wyszukiwanie artykułów do linkowania wewnętrznego, przegląd starych treści pod kątem SEO, alt i linków, szablony redakcyjne w ACP widoczne w Claude jako prompty. |
 | 1.0.12 | 2026-11-19 | Update check: the ACP now shows when a new version is out (release channel IQ-Level/iql-ips-mcp-bridge-updates). Includes everything from 1.0.11: SEO fields (meta description, keywords, custom URL) for the AI and a separate image description for each uploaded photo. |
 | 1.0.11 | 2026-11-12 | **SEO fields.** The meta description, keywords and custom URL of a record can be exposed to the AI per database, with instructions and length limits like other fields. The custom URL is checked like in the IPS form (unique, no clash with a Pages page) and the old address keeps redirecting. SEO values are kept in revisions, so a rollback restores them. **Image descriptions:** each uploaded photo can get its own alt text. |
 | 1.0.10 | 2026-11-10 | **Edits without approval** as an option: per database, changes to published records are either proposals approved in the ACP or applied at once with a revision; a global setting can turn proposals off everywhere. **ACP notification** while proposals wait for review, cleared when they are approved or rejected. Clearer mode names. |
