@@ -1,8 +1,8 @@
 {
-    "version": "1.1.0",
-    "longversion": 10100,
-    "released": 1795162079,
+    "version": "1.1.1",
+    "longversion": 10101,
+    "released": 1795185984,
     "updateurl": "https://github.com/IQ-Level/iql-ips-mcp-bridge-updates",
-    "releasenotes": "Tagi i prefiks rekordu z zasadami forum, planowana publikacja (publish_at) po zatwierdzeniu przez redaktora, wyszukiwanie artykułów do linkowania wewnętrznego, przegląd starych treści pod kątem SEO, alt i linków, szablony redakcyjne w ACP widoczne w Claude jako prompty.",
-    "published": "2026-11-20T08:07:59+00:00"
+    "releasenotes": "Wyłączone zapisywanie każdego zapytania MCP w logach systemowych. Tryb diagnostyczny to teraz przełącznik w ustawieniach (domyślnie wyłączony), a aktualizacja czyści dotychczasowe wpisy aimcp_debug.",
+    "published": "2026-11-20T14:46:24+00:00"
 }
